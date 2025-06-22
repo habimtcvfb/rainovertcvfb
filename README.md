@@ -14,6 +14,21 @@ Im Juni 2025 ist während eines wohlverdienten Urlaubs des Geschäftsführers be
 2. Die Regelung der Zugangsbeschränkung via mechanischem Schlüssel ist altbacken und sollte durch modernere weniger exklusive und elektronsiche Verfahren gesteuert werden
 3. Gleichzeitig ist dabei aber zu berücksichtigen, dass auf einzelnen Plätzen die Beregnungsanlage temporär eingeschränkt ist, da die Düsen gewartet werden müssen.
 
+### Grobkonzept
+Die SPS-artige Steuerung der Anlage wird durch eine benutzerfreundliche Steuerung mittlels Touchpad und mobiler Anwendung (App) ersetzt. Zusätzlich / alternativ kann darüber nachgedacht werden, smarte Schalter an den einzelnen Plätzen einzurichten, mit der die manuelle Beregnung eines einzelnen Platzes gestartet werden kann. Smarte Schalter haben hierbei den Vorteil, dass Sie z.B. nachts deaktiviert werden können, so dass Vandalisumus vorgebeugt werden kann. 
+
+Als Steuerungsgeräte bieten sich Rasberry Pies an. Rasberries sind sehr preiswerte Mincomputer, die mittels des offenen und damit Lizenzkostenlosen Betriebssystems Linux betrieben werden. Die Kommunikation der Steuerungselemente erfolgt über WLAN. Damit die Anlage über App gesteuert werden kann, ist es erforderlich, dass Internetzugang z.B mittels einer preiswerten SIM Karte hergestellt wird. 
+
+Auf tiefer Ebene erfolgt die Steuerung der Anlage wie folgt: Im Endeffekt müssen Steuerungsleitungen der Anlage mit Strom versorgt werden. Dies ist, wenn man so will die "Ausgabe" der SPS-Steuerungsanlage. Dieser Strom steuert Öfffnung der Düsen und Start der Pumpe zur Bereeglung, welche wiederumg die Zufuhr von Wasser auf die Plätze als Ausgabe haben.
+Dieser Ansatz der Steuerung auf recht tiefer Ebene hat den Vorteil, dass sowohl die SPS-Steuerung der Anlage, als auch die Smarte Beregnung via TCVFB Goes Wet parallel betrieben werden können, was die allgemeine Akzeptanz bei den Mitgliedern als auch einen Parallelbetrieb und stufenweise Erweiterung der Lösung ermöglicht.
+
+
+
+
+
+
+Das Tochhpad wird in der Hütte am Center
+
 
 
 
