@@ -1,6 +1,7 @@
 # tcvfbgoeswet
-Ein sicherlich passender Anglizismus jedoch von der Sexualisierungsbeauftragen zu prüfender Projektname für das Vorhaben:
+Ein plastisch beschreibender Projektname für das hier beschriebene Vorhaben, der aber von der "Sonderbeauftragten für Angelegenheiten bei sexuellen Übergriffen und sexueller Gewalt" zu prüfen ist. Ebenso ist es vorgesehen, dass alle Vereinsmitglieder und den an und in diesem Projekt agiernden Personen Namensvorschläge für das Vorhaben
 ## Modernisierung und Deregulierung der Automatisierung der Platzberegenungsanalge des T.C. VfB Kirchhellen e.V.
+eingereicht werden dürfen..
 
 #### Hintergrund
 Seit der Finalisierung der Umbau und Sanierungsmaßnahmen im März 2007 bei der drei Plätze westllich der  Teilungslinie auf die östliche Seite der Anlage und ein 4. Platz komplett saniert wurden (siehe https://www.tc-vfb-kirchhellen.de/geschichte) , verfügt die Anlage über eine automatisierte Sprenkleranlage, welche durch einen Bedienkasten links vom Platz 1 gesteuert wird. Der Bedienkasten der Zugang auf das SPS-artige Bedienfeld gewährt ist im Regelfall abgeschlossen. Jediglich 2-4 Mitglieder verfügen über einen Schlüssel zur Öffnung des Bedienkasten. Im wesentlichen kann die Anlage manuell oder automatisiert beregnet werden. Bei der manuellen Steuerung wird das Bewässern entweder eines Platzes oder eines Zyklus, sprich alle 8 Plätze werden nacheinander bewässert gestartet. Der automatisiwerte Modus zeichnet sich dadurch aus, dass Zyklen der Beregnung aller Plätze zu festgelegten Zeiten gestartet werden. Aktuell abendds gegen 21:00 h jeweils 10 Minuten und morgens gegen 6:00 ebenenfalls für 10 Minuten.
